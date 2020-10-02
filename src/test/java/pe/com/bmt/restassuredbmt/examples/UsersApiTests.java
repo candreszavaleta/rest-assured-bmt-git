@@ -16,4 +16,5 @@ public class UsersApiTests extends UsersApiConfig {
         then()
                 .statusCode(200);
     }
+    NEW TEST
 }
